@@ -1,3 +1,14 @@
+# Programmers: Owen and Korede
+# Course: CS151, Professor Zee
+# Due Date: October 4th, 2024
+# Lab Assignment: Lab 03
+# Problem Statement: Make a program to calculate the distance traveled based
+#                    on speed and determine how many points a skier would receive if
+#                    they went that distance.
+# Data In: Type of hill (hillType), Speed (speed)
+# Data Out: Amount of points (points), Distance traveled (distance)
+# Credits: None other than class :)
+
 # Import math class
 import math
 
@@ -51,15 +62,3 @@ elif points < 10:
     print("What happened??")
 else:
     print("Sorry you didn't go very far...")
-
-
-# Programmers: Owen and Korede
-# Course: CS151, Professor Zee
-# Due Date: October 4th, 2024
-# Lab Assignment: Lab 03
-# Problem Statement: Make a program to calculate the distance traveled based
-#                    on speed and determine how many points a skier would receive if
-#                    they went that distance.
-# Data In: Type of hill (hillType), Speed (speed)
-# Data Out: Amount of points (points), Distance traveled (distance)
-# Credits: None other than class :)
